@@ -1,8 +1,8 @@
 {
-  "name-web":"BARANG LIVE",
-  "author":"BARANG",
+  "name-web":"HOME DECORATION IDEAS",
+  "author":"decor",
   "remove-comment-html":true,
-  "target":"https://www.idealhome.co.uk/",
+  "target":"https://www.thenordroom.com//",
   "name-folder-sitemap":"sitemap",
   "map-permalink":[
     "page",
@@ -35,7 +35,7 @@
   ],
   "costom-element-remove":[
     {
-      "target":"www.numerade.com",
+      "target":"www.thenordroom.com",
       "element-remove-selector":[
         ".modified-footer",
         "#navbar",
