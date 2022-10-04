@@ -2,7 +2,7 @@
   "name-web":"BARANG LIVE",
   "author":"BARANG",
   "remove-comment-html":true,
-  "target":"https://www.maskoding.com",
+  "target":"https://www.idealhome.co.uk/",
   "name-folder-sitemap":"sitemap",
   "map-permalink":[
     "page",
@@ -14,8 +14,8 @@
     {
       "map":"blog",
       "target":[
-        "www.mastimon.com",
-        "www.maskoding.com"
+        "www.idealhome.co.uk",
+        "www.thenordroom.com"
       ]
     }
   ],
